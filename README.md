@@ -8,4 +8,7 @@ DISCLAIMER: I am not a financial adviser nor a CPA. This project is for learning
 4. get an API key at the Alpaca website!
 5. copy-paste the API_KEY = " "  and  API_SECRET_KEY = " " in gvars.py file inside "incompete-trading-bot folder"
 6. open terminal
-7. use this command to open trading bot and Alpaca. Half bot dashboard and half Alpaca dashboard will open.
+7. use this command to open trading bot and Alpaca. 
+cd C:\Users\rabit\Desktop\incompete-trading-bot folder (copy path of your folder located in your PC) THEN PRESS ENTER
+Now use this command   python3 tbot.py (press enter)
+Half bot dashboard and half Alpaca dashboard will open.
